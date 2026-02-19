@@ -57,7 +57,6 @@ document.addEventListener('DOMContentLoaded', function() {
             'champagne': '🥂 Шампанское',
             'whiskey': '🥃 Виски',
             'vodka': '🍸 Водка',
-            'cocktails': '🍹 Коктейли',
             'none': '🚫 Не употребляю',
             'other': formData.otherAlcohol || 'Другое'
         };
